@@ -1,0 +1,33 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>paulrouget.com</title>
+  <link href="http://galaxyk.in/"/>
+  <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://galaxyk.in/</id>
+  <author>
+    <name>Galaxy Kadiyala</name>
+    <email>foo@bar.com</email>
+  </author>
+  {% for post in site.posts %}
+    {% if post.mozilla %}
+    {% if post.standalone == null %}
+        <entry>
+            <id>http://galaxyk.in{{ post.id }}</id>
+            <link type="text/html" rel="alternate" href="http://galaxyk.in{{ post.url }}"/>
+            <title>{{ post.title }}</title>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <author>
+            <name>Galaxy Kadiyala</name>
+            <uri>http://galaxyk.in/</uri>
+            </author>
+            <content type="html">{{ post.content | xml_escape }}</content>
+        </entry>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+</feed>

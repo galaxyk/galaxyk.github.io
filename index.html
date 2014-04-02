@@ -1,3 +1,7 @@
+---
+layout: nil
+title: Galaxy Kadiyala
+---
 <!DOCTYPE html>
 
 <meta name="description" content="Galaxy Kadiyala's Page">
@@ -30,6 +34,16 @@
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contact.html">Contact</a></p>
   <hr>
 </aside>
+
+<article id="home">
+    <ul>
+        {% for post in site.posts limit:100 %}
+        {% if post.standalone == null %}
+        <li><time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time><a href="{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</article>
 
 <article id="home">
     <ul>
