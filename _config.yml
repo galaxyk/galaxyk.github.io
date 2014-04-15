@@ -2,6 +2,7 @@ permalink: /
 pygments: true
 prose:
   rooturl: "_posts"
+  markdown: kramdown
   metadata:
     "_posts":
       layout: "post2"
