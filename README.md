@@ -1,4 +1,4 @@
 galaxyk.github.io
 =================
 
-my site
+Thanks to Paul Rouget [:paulrouget] for the css theme :)
