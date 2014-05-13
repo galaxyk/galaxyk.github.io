@@ -4,12 +4,73 @@
   <title>paulrouget.com</title>
   <link href="http://galaxyk.in/"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
-  <updated>2014-04-11T14:43:53+05:30</updated>
+  <updated>2014-05-13T17:53:18+05:30</updated>
   <id>http://galaxyk.in/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
   </author>
+  
+    
+    
+        <entry>
+            <id>http://galaxyk.in/e/firefox-launch-party</id>
+            <link type="text/html" rel="alternate" href="http://galaxyk.in/e/firefox-launch-party"/>
+            <title>Firefox Launch Party, India</title>
+            <updated>2014-05-13T00:00:00+05:30</updated>
+            <author>
+            <name>Galaxy Kadiyala</name>
+            <uri>http://galaxyk.in/</uri>
+            </author>
+            <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
+
+&lt;center&gt;&lt;h1&gt;Firefox Launch Party, India&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
+
+&lt;p&gt;It was craic! On the mezzanine level of News Café, Bangalore on May 10 attendees including geeks, Mozilla reps, students, entrepreneurs, press, Firefox fans joined together to celebrate the launch of new Firefox.&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Xm5i5kbIXzc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;p&gt;During the evening we get treated to a couple of presentations that show off what the latest version of Firefox is capable of with all the amazing updates and the neat user interface (UI) design also how and what of Mozilla Community in India. However, there is much more to Mozilla than Firefox.&lt;/p&gt;
+
+&lt;p&gt;First up is &lt;a href=&quot;http://twitter.com/kaustavdm&quot;&gt;Kaustav&lt;/a&gt;, a Mozilla Rep. He gave us a great presentation about the latest changes/updates in Firefox. &lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14166698711_13956b2c55_b.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;The second talk was by &lt;a href=&quot;http://twitter.com/vineelreddy&quot;&gt;Vineel&lt;/a&gt;, a Mozilla Rep, gave a brief about Mozilla, it's mission and the community. He added there are many ways to get invollved with Mozilla.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190102063_9de59678db_z.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;At the end of the talks we were all given postcards to fill and tweet &quot;I want a Web _____.&quot; Also, the participants were distributed &quot;Kumi&quot; paper toy to make and play with it &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/iwantaweb.jpg&quot; alt=&quot;Group&quot; height=&quot;500&quot; width=&quot;400&quot;&gt;
+&lt;figcaption&gt;I want a Web Open!&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Hours of hard work. Finally we have, Kumi! &lt;a href=&quot;https://twitter.com/search?q=%23firefoxindia&amp;amp;src=hash&quot;&gt;#firefoxindia&lt;/a&gt; &lt;a href=&quot;http://t.co/InX9Z7GQDy&quot;&gt;pic.twitter.com/InX9Z7GQDy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Siddardha Garimella (@gsiddardha) &lt;a href=&quot;https://twitter.com/gsiddardha/statuses/465421932100202496&quot;&gt;May 11, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;center&gt;
+
+&lt;p&gt;It was a different kind of crowd unlike our normal Mozilla community events. People were interested in knowing more about the community and the different ways to get involved. It was really a fun evening.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190051543_6dbc0e5d89_z.jpg&quot; alt=&quot;Group&quot;&gt;
+&lt;figcaption&gt;Crazy Mozillians :D&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Free beer, free tshirts, free food, free Firefox cuppy cakes in a good reminder to us all that open source software is something that we should both advocate and celebrate as a great opportunity.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14146848086_2800d7af3b_b.jpg&quot; alt=&quot;Group&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;Oh, and if you haven't &lt;a href=&quot;http://www.mozilla.org/en-US/firefox/new/&quot;&gt;downloaded the latest Firefox&lt;/a&gt; yet, please do so! ;)&lt;/p&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I'm still recovering from Firefox madness and so are the Mozillians &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GauthRaj&quot;&gt;Gauthamraj, &lt;a href=&quot;https://twitter.com/pmjcreations&quot;&gt;Jafar, &lt;a href=&quot;https://twitter.com/vikasburri&quot;&gt;Vikas&lt;/a&gt; who helped us with the launch!! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pictures are fun. More here: &lt;a href=&quot;https://flic.kr/s/aHsjXs6zNG&quot;&gt;https://flic.kr/s/aHsjXs6zNG&lt;/a&gt;&lt;/p&gt; </content>
+        </entry>
+    
+    
   
     
     
@@ -471,23 +532,6 @@ So, it was a Hyderabad tour time in 40C heat! &lt;a href=&quot;&quot;&gt;&lt;i c
             <uri>http://galaxyk.in/</uri>
             </author>
             <content type="html">&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;At a ComputerWorld Canada Tech Insights panel discussion on Linux-based  clouds, IBM Canada Linux champion tells how Linux is the past, present  and future of cloud computing. University of Toronto’s SciNet HPC  consortium spoke about its use of Linux.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;a href=&quot;http://draft.blogger.com/goog_1268224209376&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://video.itworldcanada.com/?bcpid=7044989001&amp;amp;bctid=71043172001&quot;&gt;Click here&lt;/a&gt; to watch the video.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
-</content>
-        </entry>
-    
-    
-  
-    
-    
-        <entry>
-            <id>http://galaxyk.in/e/how-does-mozilla-firefox-earn-money</id>
-            <link type="text/html" rel="alternate" href="http://galaxyk.in/e/howmozillaearnsmoney"/>
-            <title>How does Mozilla Firefox earn money?</title>
-            <updated>2010-03-03T00:00:00+05:30</updated>
-            <author>
-            <name>Galaxy Kadiyala</name>
-            <uri>http://galaxyk.in/</uri>
-            </author>
-            <content type="html">&lt;span style=&quot;font-family: Verdana,sans-serif; font-size: small;&quot;&gt;&lt;/span&gt;&lt;br /&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Firefox is based on an open source project, what does it mean? It means there is no initial developer, it is written by a community of programmers from the entire world. The support may be limited but you will get a lot of help through the forums and mailing lists. Open source projects don't focus to benefit individuals, while it is for the benefit of the community. Firefox is one of the most used freeware in the history of software.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/_L4bU-fUu2vQ/S41eU8_M5pI/AAAAAAAAA7A/_vVlWwq6j8k/s1600-h/MaybeThisIsTheBiggestLogoOfFirefoxInthisWorld.png&quot; imageanchor=&quot;1&quot; style=&quot;clear: left; float: left; margin-bottom: 1em; margin-right: 1em;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;192&quot; src=&quot;http://3.bp.blogspot.com/_L4bU-fUu2vQ/S41eU8_M5pI/AAAAAAAAA7A/_vVlWwq6j8k/s200/MaybeThisIsTheBiggestLogoOfFirefoxInthisWorld.png&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;font-size: small;&quot;&gt;But how does Firefox make money?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Firefox is supported by &lt;a href=&quot;http://www.mozilla.org/&quot;&gt;Mozilla Corporation&lt;/a&gt;. It was started as a non-profit organization but now it is not at all a non-profit organization. Yes! it earns a lot of money. &lt;a href=&quot;http://google.com/&quot;&gt;Google&lt;/a&gt; is the main source of money for Firefox. Since Firefox 3.0 is launched it was packed with a default search engine in it &quot;Google.&quot;&amp;nbsp; Google is the default search engine as well as the default start page in Firefox browser and Google pays a hefty amount on this contract for about 80 to 85 percent of the revenue earned through this.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Firefox also earns a lot of money through the &lt;a href=&quot;http://store.mozilla.org/&quot;&gt;Mozilla Store&lt;/a&gt; where we can buy tee shirts, caps, bags, pins etc. Firefox sells all these items at a huge price and lot of people buy these because people love using such accessories from such great brands. And ya lots of people and different organizations donate Firefox for such wonderful work they do.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Google for &lt;a href=&quot;http://blog.lizardwrangler.com/&quot;&gt;Mitchell Baker's&lt;/a&gt; (Chair person of Mozilla Foundation) videos on Firefox, you will get to know lots of interesting things about Firefox. &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;a href=&quot;http://www.mozilla.com/?from=sfx&amp;amp;uid=304776&amp;amp;t=558&quot;&gt;Download&lt;/a&gt; and &lt;a href=&quot;http://www.mozilla.org/foundation/donate.html&quot;&gt;donate to the Firefox communit&lt;/a&gt;y. You can download Firefox from the button available at right of this blog and show your support&amp;nbsp; for such wonderful browser.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Verdana,sans-serif; text-align: justify;&quot;&gt;&lt;/div&gt;
 </content>
         </entry>
     

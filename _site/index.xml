@@ -4,13 +4,73 @@
   <title>paulrouget.com</title>
   <link href="http://galaxyk.in"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
-  <updated>2014-04-11T14:43:53+05:30</updated>
+  <updated>2014-05-13T17:53:18+05:30</updated>
   <id>http://galaxyk.in/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
   </author>
 
+  
+  
+  <entry>
+    <id>http://galaxyk.in/e/firefox-launch-party</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.in/e/firefox-launch-party"/>
+    <title>Firefox Launch Party, India</title>
+    <updated>2014-05-13T00:00:00Z</updated>
+    <published>2014-05-13T00:00:00Z</published>
+    <author>
+      <name>Galaxy Kadiyala</name>
+      <uri>http://galaxyk.in/</uri>
+    </author>
+    <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
+
+&lt;center&gt;&lt;h1&gt;Firefox Launch Party, India&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
+
+&lt;p&gt;It was craic! On the mezzanine level of News Café, Bangalore on May 10 attendees including geeks, Mozilla reps, students, entrepreneurs, press, Firefox fans joined together to celebrate the launch of new Firefox.&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Xm5i5kbIXzc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;p&gt;During the evening we get treated to a couple of presentations that show off what the latest version of Firefox is capable of with all the amazing updates and the neat user interface (UI) design also how and what of Mozilla Community in India. However, there is much more to Mozilla than Firefox.&lt;/p&gt;
+
+&lt;p&gt;First up is &lt;a href=&quot;http://twitter.com/kaustavdm&quot;&gt;Kaustav&lt;/a&gt;, a Mozilla Rep. He gave us a great presentation about the latest changes/updates in Firefox. &lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14166698711_13956b2c55_b.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;The second talk was by &lt;a href=&quot;http://twitter.com/vineelreddy&quot;&gt;Vineel&lt;/a&gt;, a Mozilla Rep, gave a brief about Mozilla, it's mission and the community. He added there are many ways to get invollved with Mozilla.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190102063_9de59678db_z.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;At the end of the talks we were all given postcards to fill and tweet &quot;I want a Web _____.&quot; Also, the participants were distributed &quot;Kumi&quot; paper toy to make and play with it &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/iwantaweb.jpg&quot; alt=&quot;Group&quot; height=&quot;500&quot; width=&quot;400&quot;&gt;
+&lt;figcaption&gt;I want a Web Open!&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Hours of hard work. Finally we have, Kumi! &lt;a href=&quot;https://twitter.com/search?q=%23firefoxindia&amp;amp;src=hash&quot;&gt;#firefoxindia&lt;/a&gt; &lt;a href=&quot;http://t.co/InX9Z7GQDy&quot;&gt;pic.twitter.com/InX9Z7GQDy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Siddardha Garimella (@gsiddardha) &lt;a href=&quot;https://twitter.com/gsiddardha/statuses/465421932100202496&quot;&gt;May 11, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;center&gt;
+
+&lt;p&gt;It was a different kind of crowd unlike our normal Mozilla community events. People were interested in knowing more about the community and the different ways to get involved. It was really a fun evening.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190051543_6dbc0e5d89_z.jpg&quot; alt=&quot;Group&quot;&gt;
+&lt;figcaption&gt;Crazy Mozillians :D&lt;/figcaption&gt;&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Free beer, free tshirts, free food, free Firefox cuppy cakes in a good reminder to us all that open source software is something that we should both advocate and celebrate as a great opportunity.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14146848086_2800d7af3b_b.jpg&quot; alt=&quot;Group&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;Oh, and if you haven't &lt;a href=&quot;http://www.mozilla.org/en-US/firefox/new/&quot;&gt;downloaded the latest Firefox&lt;/a&gt; yet, please do so! ;)&lt;/p&gt;
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I'm still recovering from Firefox madness and so are the Mozillians &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GauthRaj&quot;&gt;Gauthamraj, &lt;a href=&quot;https://twitter.com/pmjcreations&quot;&gt;Jafar, &lt;a href=&quot;https://twitter.com/vikasburri&quot;&gt;Vikas&lt;/a&gt; who helped us with the launch!! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pictures are fun. More here: &lt;a href=&quot;https://flic.kr/s/aHsjXs6zNG&quot;&gt;https://flic.kr/s/aHsjXs6zNG&lt;/a&gt;&lt;/p&gt; </content>
+  </entry>
+  
   
   
   <entry>
@@ -132,22 +192,6 @@ So, it was a Hyderabad tour time in 40C heat! &lt;a href=&quot;&quot;&gt;&lt;i c
 
 &lt;p&gt;It just took one day to setup a github age and start blogging using 
 &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;</content>
-  </entry>
-  
-  
-  
-  <entry>
-    <id>http://galaxyk.in/e/mozcoffee-bangalore-v40</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.in/e/mozcoffeebangalorev4"/>
-    <title>MozCoffee Bangalore v4.0 </title>
-    <updated>2014-02-21T00:00:00Z</updated>
-    <published>2014-02-21T00:00:00Z</published>
-    <author>
-      <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.in/</uri>
-    </author>
-    <content type="html">&lt;div style=&quot;text-align: justify;&quot;&gt;MozCoffee v4.0 was held on Feb 16, 2014 at Matteo Coffee, Bangalore.&lt;br /&gt;&lt;br /&gt;After three disastrous MozCoffee meetups, finally we had Mozillians joining us at our fourth MozCoffee!&lt;br /&gt;&lt;br /&gt;Thanks to Bram Pitoyo for joining us at the meet-up. Bram works for Mozilla, New Zealand as a UX designer and is in town for Meta Refresh conference.&lt;br /&gt;&lt;br /&gt;We had two Mozilla Reps and 5 Mozillians at the meet-up.&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://twitter.com/search?q=%23casualcoffeee&amp;amp;src=hash&quot;&gt;#casualcoffeee&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23web&amp;amp;src=hash&quot;&gt;#web&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23design&amp;amp;src=hash&quot;&gt;#design&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23startups&amp;amp;src=hash&quot;&gt;#startups&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/neocatalyst&quot;&gt;@neocatalyst&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brampitoyo&quot;&gt;@brampitoyo&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/kaustavdm&quot;&gt;@kaustavdm&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Shiva_Kolli&quot;&gt;@Shiva_Kolli&lt;/a&gt; &lt;a href=&quot;https://twitter.com/GalaxyK&quot;&gt;@GalaxyK&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mozilla&quot;&gt;@mozilla&lt;/a&gt; &lt;a href=&quot;http://t.co/6a1OYc7Dzq&quot;&gt;pic.twitter.com/6a1OYc7Dzq&lt;/a&gt;&lt;br /&gt;— Akash Devaraju (@SkyKOG) &lt;a href=&quot;https://twitter.com/SkyKOG/statuses/435095511528263680&quot;&gt;February 16, 2014&lt;/a&gt;&lt;/div&gt;&lt;/blockquote&gt;From left: &lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/111493249115401386869&quot; target=&quot;_blank&quot;&gt;+Galaxy Kadiyala&lt;/a&gt;&amp;nbsp;, &lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/105302961698355698491&quot; target=&quot;_blank&quot;&gt;+Jaydev Ajit Kumar&lt;/a&gt;&amp;nbsp;,&amp;nbsp;&lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/117159557827493870477&quot; target=&quot;_blank&quot;&gt;+Bram Pitoyo&lt;/a&gt;, &lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/101896477541219853548&quot; target=&quot;_blank&quot;&gt;+Sagar Hasanadka&lt;/a&gt;&amp;nbsp;, &lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/110981655024733943202&quot; target=&quot;_blank&quot;&gt;+Shivagangadhar Kolli&lt;/a&gt; ,&amp;nbsp;&lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/112611202321001977546&quot; target=&quot;_blank&quot;&gt;+Akash Devaraju&lt;/a&gt;&amp;nbsp;, &lt;a class=&quot;g-profile&quot; href=&quot;https://plus.google.com/118013766409740739516&quot; target=&quot;_blank&quot;&gt;+Kaustav Das Modak&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt; &lt;span id=&quot;goog_1468542524&quot;&gt;&lt;/span&gt;&lt;span id=&quot;goog_1468542525&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;We did not have a proper agenda prepared but yes we had a chat with Bram on Marketplace, FirefoxOS, SuMo, UX, FSA and ways to contribute in for the fresh Mozillians.&lt;br /&gt;&lt;br /&gt;Me, Kaustav and Bram walked like crazy on the streets of Bangalore to find a mobile shop for FirefoxOS research.&lt;br /&gt;&lt;br /&gt;Firefox Student Ambassadors is very popular among college students. We are getting a lot of requests from FSA's to conduct events at their colleges. Pretty soon we will be doing an event for FSA's at a college in Bangalore. Keep watching our Mozilla India social media channels for updates on the event.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;Wow! Had great time with &lt;a href=&quot;https://twitter.com/search?q=%23MOZILLIANS&amp;amp;src=hash&quot;&gt;#MOZILLIANS&lt;/a&gt; Casual coffee made me &lt;a href=&quot;https://twitter.com/search?q=%23enthusiastic&amp;amp;src=hash&quot;&gt;#enthusiastic&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brampitoyo&quot;&gt;@brampitoyo&lt;/a&gt; &lt;a href=&quot;https://twitter.com/GalaxyK&quot;&gt;@GalaxyK&lt;/a&gt; &lt;a href=&quot;https://twitter.com/kaustavdm&quot;&gt;@kaustavdm&lt;/a&gt; &lt;a href=&quot;https://twitter.com/SkyKOG&quot;&gt;@SkyKOG&lt;/a&gt; &lt;a href=&quot;https://twitter.com/neocatalyst&quot;&gt;@neocatalyst&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Shiva_Kolli&quot;&gt;@Shiva_Kolli&lt;/a&gt;&lt;br /&gt;— Sagar Hasanadka (@Hasanadka) &lt;a href=&quot;https://twitter.com/Hasanadka/statuses/435289000106934272&quot;&gt;February 17, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;script async=&quot;&quot; charset=&quot;utf-8&quot; src=&quot;//platform.twitter.com/widgets.js&quot;&gt;&lt;/script&gt; Take away from the meet-up: good coffee, tummy full potatoes, loud music, great discussions, ways to contribute, awesome time :)&lt;/div&gt;
-</content>
   </entry>
   
   
