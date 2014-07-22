@@ -4,12 +4,75 @@
   <title>paulrouget.com</title>
   <link href="http://galaxyk.in/"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
-  <updated>2014-05-13T18:11:42+05:30</updated>
+  <updated>2014-07-22T22:49:40+05:30</updated>
   <id>http://galaxyk.in/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
   </author>
+  
+    
+    
+        <entry>
+            <id>http://galaxyk.in/e/makerpartyfsmk</id>
+            <link type="text/html" rel="alternate" href="http://galaxyk.in/e/makerpartyfsmk"/>
+            <title>Maker Party Bangalore FSMK Summer Camp '14</title>
+            <updated>2014-07-22T00:00:00+05:30</updated>
+            <author>
+            <name>Galaxy Kadiyala</name>
+            <uri>http://galaxyk.in/</uri>
+            </author>
+            <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
+
+&lt;center&gt;&lt;h1&gt;Maker Party Bangalore&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h4&gt;FSMK Summer Camp '14&lt;/h4&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
+
+&lt;p&gt;Every year &lt;a href=&quot;http://fsmk.org&quot;&gt;FSMK&lt;/a&gt; organizes a 9 day summer camp in Bangalore. Students from different colleges all over Karnataka join the summer camp to learn, create, collaborate.&lt;/p&gt;
+
+&lt;p&gt;Last year's response for Maker Party at the Summer Camp was overwhelming and the organizers invited us to host Maker Party this year too! :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://party.webmaker.org/&quot;&gt;Maker Party&lt;/a&gt;, Mozilla’s annual global campaign to teach the web, kicked off last week on July 15!&lt;p&gt;
+
+&lt;p&gt;As always &lt;a href=&quot;http://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt; started with what is Open Source, Open Web and why &lt;a href=&quot;http://mozilla.org&quot;&gt;Mozilla&lt;/a&gt;! Explained briefly about all the Webmaker tools (X-ray Goggles, Thimble, Popcorn, Appmaker).&lt;/p&gt;
+
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-cards=&quot;hidden&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/hashtag/TeachTheWeb?src=hash&quot;&gt;#TeachTheWeb&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;@anknite&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/GalaxyK&quot;&gt;@GalaxyK&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/fsmksc14?src=hash&quot;&gt;#fsmksc14&lt;/a&gt; &lt;a href=&quot;http://t.co/RkEPSrtRLi&quot;&gt;pic.twitter.com/RkEPSrtRLi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Abhiram Ravi (@abhi123ravi) &lt;a href=&quot;https://twitter.com/abhi123ravi/statuses/490725912627793921&quot;&gt;July 20, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+
+&lt;p&gt;Then it was time to do some makes! Yay! The students were amazed to see how easy it is to see the HTML source code of a particular block with X-ray Goggles and at the same time replace the existing code to generate a new webpage.&lt;/p&gt;
+
+&lt;p&gt;We've given a &lt;a href=&quot;http://bit.ly/fsmklinks&quot;&gt;set of links&lt;/a&gt; to start handson for those who want to remix something that is already available.&lt;/p&gt;
+
+&lt;center&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;and yes! we had more than 100 Webmaker makes in just 3 hours! Webmaker tools makes you n00b to ninja in less than one hour!&quot;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/center&gt;
+
+&lt;p&gt;Webmaker tools are fun and challenging that made them understand the tools and how they can better learn and create something amazing on the Web.
+
+&lt;center&gt;&lt;img src=&quot;http://i.imgur.com/5HQ0CQr.jpg&quot; alt=&quot;Group&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Group pic with the Webmakers&lt;/center&gt;
+&lt;center&gt;[PC: Aditya]&lt;/center&gt;
+
+&lt;p&gt;Most of the students were either &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors&quot;&gt;Firefox Student Ambassadors&lt;/a&gt; or wanted to know more about FSA. They were pretty excited to host their own Maker Parties at their colleges. Here's more for the &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors/Activities/MakerParty&quot;&gt;activities and resources&lt;/a&gt; for FSA's.
+
+&lt;p&gt;The Maker Party at FSMK Summer Camp was really fun, filled with smart and interesting people. Thanks to Vignesh, &lt;a href=&quot;http://www.facebook.com/abhi12ravi&quot;&gt;Abhiram&lt;/a&gt; and all the volunteers who helped us with the event. As always, I am happy, excited and invigorated with the Maker Party! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some of the feedback we received from the participants:&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;The softwares which u showed us today we really interesting and useful for us.&quot; &lt;br&gt;-- Mahesh&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;Appmaker must work on slow network connections. If it's in the form of software which can be installed in the pc it will be awesome!&quot;&lt;br&gt;-- Akshay&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;Its a good experience to use such simple tools to design stuffs instead of programming it from scratch using just program codes :) I had lots of fun and it was a very good experience :) learning code is easy n helpful to learn to program it.. :) &quot;&lt;br&gt;-- Mythreya&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;had fun making them, it felt that I had done a lot of amazing things without knowning much about them&quot;&lt;br&gt;-- Karthik&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Interested in Maker Party? Find one or host one near your place to join the Maker Party this year! &lt;a href=&quot;https://events.webmaker.org/&quot;&gt;https://events.webmaker.org/&lt;/a&gt;
+
+&lt;p&gt;Crowd source pictures &amp; posts:&lt;/p&gt;
+
+&lt;p&gt;To be added.&lt;/p&gt;</content>
+        </entry>
+    
+    
   
     
     
