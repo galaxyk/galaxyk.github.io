@@ -4,12 +4,116 @@
   <title>galaxyk.github.io</title>
   <link href="http://galaxyk.github.io/"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
-  <updated>2014-11-11T15:46:49+05:30</updated>
+  <updated>2014-11-11T15:55:46+05:30</updated>
   <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
   </author>
+  
+    
+    
+        <entry>
+            <id>http://galaxyk.github.io/e/mozilla-festival-2014</id>
+            <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/mozfest2014"/>
+            <title>Mozilla Festival 2014</title>
+            <updated>2014-11-11T00:00:00+05:30</updated>
+            <author>
+            <name>Galaxy Kadiyala</name>
+            <uri>http://galaxyk.github.io/</uri>
+            </author>
+            <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
+
+&lt;center&gt;&lt;h1&gt;Mozilla Festival 2014&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://mozillaindia.org&quot;&gt;Mozilla India&lt;/a&gt; Community Meetup ‘14 far surpassed my expectations. This is the first time a large number of contributors joined the community meet-up in India and it was collaborative, fun, productive all at once.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://wiki.mozilla.org/India/Community_Meetup_14&quot;&gt;Mozilla India Community Meetup&lt;/a&gt; is an invitation-only gathering of some of the most active contributors in the Mozilla India community. There were brainstorming/swarming sessions, SWOT analysis, informative and productive breakout sessions, ten minute QUILT updates from the Task Force Teams, Australis update, a user research of FirefoxOS in India and spicy food throughout.&lt;/p&gt;
+
+&lt;p&gt;I am lucky to be a part of the organizing team, due to my involvement with Mozilla. There were a total of 65 community members at the event: staff, hackers, localizers, events, marketing, testers, support, womoz, FSA&#39;s and the users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 1: Task Force Teams Meet-up (Task Force Owners &amp; Mentors)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I traveled all night from Bangalore, with severe flu and cold to Hyderabad (took severe drugs &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-medkit&quot;&gt;&lt;/i&gt;&lt;/a&gt; to stay alive for the weekend though) &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt; and arrived on Friday morning just in time to join the Task Force Teams meeting. I spent the better part of the day working on events sop/process with my partner in crime, Vineel. We did brain swarming than storming to list all the challenges and how to proceed further with the community increasing and put up our ideas with the team and got valuable feedback from different task forces.&lt;/p&gt;
+
+&lt;p&gt;All the task force teams (L10n, Technical, Support, Webmaker, ReMo, Engagement) gave a 10 minute update on their accomplishments from Jan 2013 till April 2014. In the second half of the day was the time to build goals on what the teams would like to achieve in 2014.&lt;/p&gt;
+
+&lt;p&gt;List of Task Forces: &lt;a href=&quot;https://wiki.mozilla.org/India/task_force&quot;&gt;https://wiki.mozilla.org/India/task_force&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The rest of the attendees for the main meet-up started arriving from evening and we all went out for a long dinner, where we had a chance to get to know each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 2: Community India Meet-up&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The day started with &quot;I am a Mozillian&quot; video &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;600&quot; height=&quot;350&quot; src=&quot;http://www.youtube.com/embed/v=LuyBGkbzTjs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;a href=&quot;http://www.youtube.com/embed/v=LuyBGkbzTjs&quot;&gt;Youtube video&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The second day was filled with even more sessions, and some especially interesting quilt updates from all the teams:&lt;/p&gt;
+
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;What are you most proud of in 2013?
+&lt;li&gt;What was your biggest challenge in 2013?
+&lt;li&gt;What is your big goal for 2014?
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent the better part of the afternoon brainstorming ReMo program with Brian &amp; Vineel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/gen&quot;&gt;Gen&lt;/a&gt; gave a talk on the Australis launch (how, what, where, when, community involvement) that is going to be released with Firefox 29 this month on April 29.&lt;/p&gt;
+
+&lt;p&gt;The day was rounded off with discussion on ReMo program with all the community. Quality over quantity is one of the key things that were discussed. Mentors to be limited to have ~10 mentees, so there is a good mentor-mentee relationship between them.&lt;/p&gt;
+
+&lt;p&gt;More updates from all the teams here: &lt;a href=&quot;https://etherpad.mozilla.org/remo-community-india-meeting-Feb14&quot;&gt;https://etherpad.mozilla.org/remo-community-india-meeting-Feb14&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;and then the sumptuous dinner with desi music (thanks to DJ Tripad &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-music&quot;&gt;&lt;/i&gt;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 3: Community India Meet-up&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The last day of the meet-up was a bit more laid back, we talked about the new Task Forces. I joined with Webmaker, FSA, Design and Technical teams on how we can get the users engaged with the community (be it with online events, offline events, mozillaindia.org, social media et cetera).&lt;/p&gt;
+
+&lt;p&gt;Just before the lunch was the time for group pictures!&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1011606_10152352928192090_313768445061455441_n.jpg&quot; alt=&quot;Group&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Community India Group!&lt;/center&gt;
+&lt;center&gt;[Pic Credits: &lt;a href=&quot;https://twitter.com/Debloper/&quot;&gt;Baba Marley aka Deb&lt;/a&gt;]&lt;/center&gt;
+
+&lt;p&gt;and then was the time for all selfies and different team pictures! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-picture-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://pbs.twimg.com/media/Bkh9RPQCEAAK_2Y.jpg&quot; alt=&quot;Selfie&quot; height=&quot;300&quot; width=&quot;400&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Selfie&lt;/center&gt;
+
+&lt;p&gt;In the second half of the day, &lt;a href=&quot;https://www.facebook.com/jane.hsu.1204&quot;&gt;Jane Hsu&lt;/a&gt; joined us online from taiwan and did a screencast of FirefoxOS market research along with Brian. There was a 20 minute explanation, and then we split the audience into groups with 3 questions to discuss and present the ideas with the audience:&lt;/p&gt;
+
+&lt;p&gt;&lt;ul&gt;1. Must have feature in FirefoxOS&lt;/ul&gt;
+&lt;ul&gt;2. What do you think we showcase?&lt;/ul&gt;
+&lt;ul&gt;3. How do we promote?&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;The market research session went incredibly well, so well that we had a lineup of people from each group to present their ideas with the community. The FirefoxOS rickshaw covers campaigning idea was awesome! (In India, rickshaw/tuktuk is the best way to travel in the city)&lt;/p&gt;
+
+&lt;p&gt;Technical Task Force managed to rip off the Reps events page into mozillaindia.org just in few hours and plan to embed Webmaker &amp; FSA events as well. More exciting things to go live on the website pretty soon.&lt;/p&gt;
+
+&lt;p&gt;We enjoyed a delicious dinner, send-off for a few Mozillians and a corrupted video download by Deb at the hotel &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-meh-o&quot;&gt;&lt;/i&gt;&lt;/a&gt; before calling it a night.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Day 4: Departure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone started leaving one by one and a couple of us had a late evening journey.
+So, it was a Hyderabad tour time in 40C heat! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-meh-o&quot;&gt;&lt;/i&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Had a chance to roam around Hyderabad a bit covering Charminar, the huge Chowmahalla Palace and a little Hyderabad Biryani. It was fun with Brian, Madalina, Vineel and Deb! :)&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/p180x540/1979543_10151906545135736_7623904417711157431_n.jpg&quot; alt=&quot;Group&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Vineel, Galaxy, Madalina, Deb, Brian&lt;/center&gt;
+&lt;center&gt;[Pic Credits: &lt;a href=&quot;https://twitter.com/brianking&quot;&gt;Brian King&lt;/a&gt;]&lt;/center&gt;
+
+&lt;p&gt;The Community India Meet-up was truly an amazing experience for me. I met so many people from the community for the first time. I am happy, excited and invigorated with the meet-up! Thanks everyone who could join us at the meet-up online &amp; offline &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now I’m back to Bangalore. Lel.&lt;/p&gt;
+
+&lt;p&gt;Crowd source pictures &amp; posts:&lt;/p&gt;
+
+&lt;p&gt;Pictures by Tripad: &lt;a href=&quot;https://flic.kr/s/aHsjWJ9kRp&quot;&gt;https://flic.kr/s/aHsjWJ9kRp&lt;/a&gt;&lt;/p&gt;</content>
+        </entry>
+    
+    
   
     
     
