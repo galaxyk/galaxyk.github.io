@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>galaxyk.in</title>
-  <link href="http://galaxyk.in"/>
-  <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
-  <updated>2014-07-27T02:30:10+05:30</updated>
-  <id>http://galaxyk.in/</id>
+  <title>galaxyk.github.io</title>
+  <link href="http://galaxyk.github.io"/>
+  <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
+  <updated>2014-11-11T15:46:49+05:30</updated>
+  <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
@@ -14,24 +14,24 @@
   
   
   <entry>
-    <id>http://galaxyk.in/e/makerpartyfsmk</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.in/e/makerpartyfsmk"/>
+    <id>http://galaxyk.github.io/e/makerpartyfsmk</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/makerpartyfsmk"/>
     <title>Maker Party Bangalore FSMK Summer Camp '14</title>
     <updated>2014-07-22T00:00:00Z</updated>
     <published>2014-07-22T00:00:00Z</published>
     <author>
       <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.in/</uri>
+      <uri>http://galaxyk.github.io/</uri>
     </author>
     <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
 
 &lt;center&gt;&lt;h1&gt;Maker Party Bangalore&lt;/h1&gt;&lt;/center&gt;
-&lt;center&gt;&lt;h4&gt;FSMK Summer Camp '14&lt;/h4&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h4&gt;FSMK Summer Camp &#39;14&lt;/h4&gt;&lt;/center&gt;
 &lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
 
 &lt;p&gt;Every year &lt;a href=&quot;http://fsmk.org&quot;&gt;FSMK&lt;/a&gt; organizes a 9 day summer camp in Bangalore. Students from different colleges all over Karnataka join the summer camp to learn, create, collaborate.&lt;/p&gt;
 
-&lt;p&gt;Last year's response for Maker Party at the Summer Camp was overwhelming and the organizers invited us to host Maker Party this year too! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last year&#39;s response for Maker Party at the Summer Camp was overwhelming and the organizers invited us to host Maker Party this year too! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://party.webmaker.org/&quot;&gt;Maker Party&lt;/a&gt;, Mozilla’s annual global campaign to teach the web, kicked off last week on July 15!&lt;p&gt;
 
@@ -42,7 +42,7 @@
 
 &lt;p&gt;Then it was time to do some makes! Yay! The students were amazed to see how easy it is to see the HTML source code of a particular block with X-ray Goggles and at the same time replace the existing code to generate a new webpage.&lt;/p&gt;
 
-&lt;p&gt;We've given a &lt;a href=&quot;http://bit.ly/fsmklinks&quot;&gt;set of links&lt;/a&gt; to start handson for those who want to remix something that is already available.&lt;/p&gt;
+&lt;p&gt;We&#39;ve given a &lt;a href=&quot;http://bit.ly/fsmklinks&quot;&gt;set of links&lt;/a&gt; to start handson for those who want to remix something that is already available.&lt;/p&gt;
 
 &lt;center&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;and yes! we had more than 100 Webmaker makes in just 3 hours! Webmaker tools makes you n00b to ninja in less than one hour!&quot;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/center&gt;
 
@@ -52,7 +52,7 @@
 &lt;center&gt;Group pic with the Webmakers&lt;/center&gt;
 &lt;center&gt;[PC: Aditya]&lt;/center&gt;
 
-&lt;p&gt;Most of the students were either &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors&quot;&gt;Firefox Student Ambassadors&lt;/a&gt; or wanted to know more about FSA. They were pretty excited to host their own Maker Parties at their colleges. Here's more for the &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors/Activities/MakerParty&quot;&gt;activities and resources&lt;/a&gt; for FSA's.
+&lt;p&gt;Most of the students were either &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors&quot;&gt;Firefox Student Ambassadors&lt;/a&gt; or wanted to know more about FSA. They were pretty excited to host their own Maker Parties at their colleges. Here&#39;s more for the &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors/Activities/MakerParty&quot;&gt;activities and resources&lt;/a&gt; for FSA&#39;s.
 
 &lt;p&gt;The Maker Party at FSMK Summer Camp was really fun, filled with smart and interesting people. Thanks to Vignesh, &lt;a href=&quot;http://www.facebook.com/abhi12ravi&quot;&gt;Abhiram&lt;/a&gt; and all the volunteers who helped us with the event. As always, I am happy, excited and invigorated with the Maker Party! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -60,7 +60,7 @@
 
 &lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;The softwares which u showed us today we really interesting and useful for us.&quot; &lt;br&gt;-- Mahesh&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;Appmaker must work on slow network connections. If it's in the form of software which can be installed in the pc it will be awesome!&quot;&lt;br&gt;-- Akshay&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;Appmaker must work on slow network connections. If it&#39;s in the form of software which can be installed in the pc it will be awesome!&quot;&lt;br&gt;-- Akshay&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;&lt;span style=&quot;color: #cc0000;&quot;&gt;&quot;Its a good experience to use such simple tools to design stuffs instead of programming it from scratch using just program codes :) I had lots of fun and it was a very good experience :) learning code is easy n helpful to learn to program it.. :) &quot;&lt;br&gt;-- Mythreya&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
 
@@ -76,14 +76,14 @@
   
   
   <entry>
-    <id>http://galaxyk.in/e/firefox-launch-party</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.in/e/firefox-launch-party"/>
+    <id>http://galaxyk.github.io/e/firefox-launch-party</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/firefox-launch-party"/>
     <title>Firefox Launch Party, India</title>
     <updated>2014-05-13T00:00:00Z</updated>
     <published>2014-05-13T00:00:00Z</published>
     <author>
       <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.in/</uri>
+      <uri>http://galaxyk.github.io/</uri>
     </author>
     <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
 
@@ -100,7 +100,7 @@
 
 &lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14166698711_13956b2c55_b.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
 
-&lt;p&gt;The second talk was by &lt;a href=&quot;http://twitter.com/vineelreddy&quot;&gt;Vineel&lt;/a&gt;, a Mozilla Rep, gave a brief about Mozilla, it's mission and the community. He added there are many ways to get invollved with Mozilla.&lt;/p&gt;
+&lt;p&gt;The second talk was by &lt;a href=&quot;http://twitter.com/vineelreddy&quot;&gt;Vineel&lt;/a&gt;, a Mozilla Rep, gave a brief about Mozilla, it&#39;s mission and the community. He added there are many ways to get invollved with Mozilla.&lt;/p&gt;
 
 &lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190102063_9de59678db_z.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
 
@@ -124,11 +124,11 @@
 
 &lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14146848086_2800d7af3b_b.jpg&quot; alt=&quot;Group&quot;&gt;&lt;/center&gt;
 
-&lt;p&gt;Oh, and if you haven't &lt;a href=&quot;http://www.mozilla.org/en-US/firefox/new/&quot;&gt;downloaded the latest Firefox&lt;/a&gt; yet, please do so! ;)&lt;/p&gt;
+&lt;p&gt;Oh, and if you haven&#39;t &lt;a href=&quot;http://www.mozilla.org/en-US/firefox/new/&quot;&gt;downloaded the latest Firefox&lt;/a&gt; yet, please do so! ;)&lt;/p&gt;
 
 &lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;I'm still recovering from Firefox madness and so are the Mozillians &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GauthRaj&quot;&gt;Gauthamraj&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/pmjcreations&quot;&gt;Jafar&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/anushbmx&quot;&gt;Anush&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/vikasburri&quot;&gt;Vikas&lt;/a&gt; who helped us with the launch!! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m still recovering from Firefox madness and so are the Mozillians &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GauthRaj&quot;&gt;Gauthamraj&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/pmjcreations&quot;&gt;Jafar&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/anushbmx&quot;&gt;Anush&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/vikasburri&quot;&gt;Vikas&lt;/a&gt; who helped us with the launch!! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Pictures are fun. More here: &lt;a href=&quot;https://flic.kr/s/aHsjXs6zNG&quot;&gt;https://flic.kr/s/aHsjXs6zNG&lt;/a&gt;&lt;/p&gt; </content>
   </entry>
@@ -136,14 +136,14 @@
   
   
   <entry>
-    <id>http://galaxyk.in/e/mozmeetin</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.in/e/mozmeetin"/>
+    <id>http://galaxyk.github.io/e/mozmeetin</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/mozmeetin"/>
     <title>Mozilla India Community Meet-up '14</title>
     <updated>2014-04-10T00:00:00Z</updated>
     <published>2014-04-10T00:00:00Z</published>
     <author>
       <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.in/</uri>
+      <uri>http://galaxyk.github.io/</uri>
     </author>
     <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
 
@@ -154,7 +154,7 @@
 
 &lt;p&gt;The &lt;a href=&quot;https://wiki.mozilla.org/India/Community_Meetup_14&quot;&gt;Mozilla India Community Meetup&lt;/a&gt; is an invitation-only gathering of some of the most active contributors in the Mozilla India community. There were brainstorming/swarming sessions, SWOT analysis, informative and productive breakout sessions, ten minute QUILT updates from the Task Force Teams, Australis update, a user research of FirefoxOS in India and spicy food throughout.&lt;/p&gt;
 
-&lt;p&gt;I am lucky to be a part of the organizing team, due to my involvement with Mozilla. There were a total of 65 community members at the event: staff, hackers, localizers, events, marketing, testers, support, womoz, FSA's and the users.&lt;/p&gt;
+&lt;p&gt;I am lucky to be a part of the organizing team, due to my involvement with Mozilla. There were a total of 65 community members at the event: staff, hackers, localizers, events, marketing, testers, support, womoz, FSA&#39;s and the users.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Day 1: Task Force Teams Meet-up (Task Force Owners &amp; Mentors)&lt;/strong&gt;&lt;/p&gt;
 

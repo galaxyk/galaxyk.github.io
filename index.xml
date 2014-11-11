@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>galaxyk.in</title>
-  <link href="http://galaxyk.in"/>
-  <link type="application/atom+xml" rel="self" href="http://galaxyk.in/index.xml"/>
+  <title>galaxyk.github.io</title>
+  <link href="http://galaxyk.github.io"/>
+  <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://galaxyk.in/</id>
+  <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
@@ -17,14 +17,14 @@ layout: nil
   {% for post in site.posts  limit: 3 %}
   {% if post.standalone == null %}
   <entry>
-    <id>http://galaxyk.in{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.in{{ post.url }}"/>
+    <id>http://galaxyk.github.io{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io{{ post.url }}"/>
     <title>{{ post.title }}</title>
     <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
     <published>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</published>
     <author>
       <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.in/</uri>
+      <uri>http://galaxyk.github.io/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
