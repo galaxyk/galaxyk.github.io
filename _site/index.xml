@@ -4,7 +4,7 @@
   <title>galaxyk.github.io</title>
   <link href="http://galaxyk.github.io"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
-  <updated>2014-11-26T13:05:46+05:30</updated>
+  <updated>2014-12-10T16:42:20+05:30</updated>
   <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
@@ -14,18 +14,18 @@
   
   
   <entry>
-    <id>http://galaxyk.github.io/e/mozilla-festival-2014</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/mozfest2014"/>
-    <title>Mozilla Festival 2014</title>
-    <updated>2014-11-11T00:00:00Z</updated>
-    <published>2014-11-11T00:00:00Z</published>
+    <id>http://galaxyk.github.io/e/365-days-of-mozilla-contribution</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/365dayscontribution"/>
+    <title>365 Days of Mozilla Contribution</title>
+    <updated>2014-12-12T00:00:00Z</updated>
+    <published>2014-12-12T00:00:00Z</published>
     <author>
       <name>Galaxy Kadiyala</name>
       <uri>http://galaxyk.github.io/</uri>
     </author>
     <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
 
-&lt;center&gt;&lt;h1&gt;Mozilla Festival 2014&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;365 Days of Mozilla Contribution&lt;/h1&gt;&lt;/center&gt;
 &lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
 
 </content>
