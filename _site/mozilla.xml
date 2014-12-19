@@ -4,7 +4,7 @@
   <title>galaxyk.github.io</title>
   <link href="http://galaxyk.github.io/"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
-  <updated>2014-12-10T16:42:20+05:30</updated>
+  <updated>2014-12-19T16:10:46+05:30</updated>
   <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
@@ -14,10 +14,10 @@
     
     
         <entry>
-            <id>http://galaxyk.github.io/e/365-days-of-mozilla-contribution</id>
-            <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/365dayscontribution"/>
+            <id>http://galaxyk.github.io/e/5-years-of-mozilla</id>
+            <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/5yearsofmozilla"/>
             <title>365 Days of Mozilla Contribution</title>
-            <updated>2014-12-12T00:00:00+05:30</updated>
+            <updated>2014-12-21T00:00:00+05:30</updated>
             <author>
             <name>Galaxy Kadiyala</name>
             <uri>http://galaxyk.github.io/</uri>
@@ -27,7 +27,41 @@
 &lt;center&gt;&lt;h1&gt;365 Days of Mozilla Contribution&lt;/h1&gt;&lt;/center&gt;
 &lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
 
-</content>
+&lt;p&gt;&lt;h4&gt;I feel awesome&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a lot of reasons I contribute to Open Source. One, is to give back something to the people from whose work I&#39;ve benefitted greatly, to get to collaborate with smart and congenial people and, honestly, to build my resume! What I did not anticipate was that getting accepted into a community makes you feel so special. The &lt;a href=&quot;http://mozilla.org&quot;&gt;Mozilla&lt;/a&gt; community was greatly supportive to me the entire way, with trainings, conferences, online meetings, work weeks when they could have done even without me. I truly felt that I was being accepted into a community &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The thought of having even the tiniest effect on a ubiquitous piece of software is thrilling. Your name on the beautiful &lt;a href=&quot;https://blog.mozilla.org/community/2013/11/26/the-monument-to-mozillians-is-coming-to-san-francisco/&quot;&gt;Firefox monument in San Francisco&lt;/a&gt; and on the credits page. This thrill may be a narcissistic one, but I feel it&#39;s alright to revel in it. What&#39;s wrong with feeling satisfied that you&#39;ve applied your skills to promote a product that millions of people use to browse the web?&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Beyond the code&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;I spend most of my time at work writing code&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/LtOGa5M8AuU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;600&quot; height=&quot;350&quot; src=&quot;http://www.youtube.com/embed/LtOGa5M8AuUjs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;a href=&quot;http://www.youtube.com/embed/LtOGa5M8AuUjs&quot;&gt;Choose Independent&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The second day was filled with even more sessions, and some especially interesting quilt updates from all the teams:&lt;/p&gt;
+
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;What are you most proud of in 2013?
+&lt;li&gt;What was your biggest challenge in 2013?
+&lt;li&gt;What is your big goal for 2014?
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1011606_10152352928192090_313768445061455441_n.jpg&quot; alt=&quot;Group&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Community India Group!&lt;/center&gt;
+&lt;center&gt;[Pic Credits: &lt;a href=&quot;https://twitter.com/Debloper/&quot;&gt;Baba Marley aka Deb&lt;/a&gt;]&lt;/center&gt;
+
+&lt;p&gt;and then was the time for all selfies and different team pictures! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-picture-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;https://pbs.twimg.com/media/Bkh9RPQCEAAK_2Y.jpg&quot; alt=&quot;Selfie&quot; height=&quot;300&quot; width=&quot;400&quot;&gt; &lt;/center&gt;
+&lt;center&gt;Selfie&lt;/center&gt;
+
+&lt;p&gt;We enjoyed a delicious dinner, send-off for a few Mozillians and a corrupted video download by Deb at the hotel &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-meh-o&quot;&gt;&lt;/i&gt;&lt;/a&gt; before calling it a night.&lt;/p&gt;
+
+&lt;p&gt;The Community India Meet-up was truly an amazing experience for me. I met so many people from the community for the first time. I am happy, excited and invigorated with the meet-up! Thanks everyone who could join us at the meet-up online &amp; offline &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Contributing to open source is a great high; I can’t wait for the coming years!&lt;/p&gt;</content>
         </entry>
     
     
