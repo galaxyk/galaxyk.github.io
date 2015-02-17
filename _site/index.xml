@@ -4,13 +4,83 @@
   <title>galaxyk.github.io</title>
   <link href="http://galaxyk.github.io"/>
   <link type="application/atom+xml" rel="self" href="http://galaxyk.github.io/index.xml"/>
-  <updated>2015-01-04T23:11:33+05:30</updated>
+  <updated>2015-02-17T19:43:03+05:30</updated>
   <id>http://galaxyk.github.io/</id>
   <author>
     <name>Galaxy Kadiyala</name>
     <email>foo@bar.com</email>
   </author>
 
+  
+  
+  <entry>
+    <id>http://galaxyk.github.io/e/fsa-bootcamp-india</id>
+    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/fsabootcampindia"/>
+    <title>FSA Bootcamp India</title>
+    <updated>2015-02-17T00:00:00Z</updated>
+    <published>2015-02-17T00:00:00Z</published>
+    <author>
+      <name>Galaxy Kadiyala</name>
+      <uri>http://galaxyk.github.io/</uri>
+    </author>
+    <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
+
+&lt;center&gt;&lt;h1&gt;FSA Bootcamp India&lt;/h1&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;font size=&quot;2&quot;&gt;I am neither leaving the community nor taking a break from my contribution! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;h4&gt;&lt;a name=&quot;reward&quot;&gt;&lt;/a&gt;I feel awesome&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a lot of reasons I contribute to Open Source. One, is to give back something to the people from whose work I&#39;ve benefitted greatly, to get to collaborate with smart and congenial people and, honestly, to build my resume! What I did not anticipate was that getting accepted into a community makes you feel so special. The &lt;a href=&quot;http://mozilla.org&quot;&gt;Mozilla&lt;/a&gt; community was greatly supportive to me the entire way, with trainings, conferences, online meetings, work weeks when they could have done even without me. I truly felt that I was being accepted into a community &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/assets/epicshit.JPG&quot; alt=&quot;Epic Shit&quot; height=&quot;400&quot;&gt; &lt;/center&gt;
+&lt;center&gt;&lt;font size=&quot;2&quot;&gt;I do. Like, a lot! :D&lt;/center&gt;&lt;/p&gt;&lt;/font&gt;
+
+&lt;p&gt;The thought of having even the tiniest effect on a ubiquitous piece of software is thrilling. Your name on the beautiful &lt;a href=&quot;https://blog.mozilla.org/community/2013/11/26/the-monument-to-mozillians-is-coming-to-san-francisco/&quot;&gt;Firefox monument in San Francisco&lt;/a&gt; and on the &lt;a href=&quot;https://www.mozilla.org/credits/&quot;&gt;Mozilla contributor credits&lt;/a&gt; page. This thrill may be a narcissistic one, but I feel it&#39;s alright to revel in it. I don&#39;t see anything wrong with feeling satisfied that you&#39;ve applied your skills to promote a product that millions of people use to browse the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Beyond the code&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a terminal junkie and spend most of my time at work writing/forking code which I am not fond of. I like attending events, it is the place where you get to meet people with different backgrounds to talk, collaborate, learn and create. Also, I am shy and don&#39;t like giving talks or speaking at conferences. There are a lot more things that interests me - events, conferences, engaging with the users, community building, social media et. cetera. Over the course of years, I organized events from kitchen table meetups to a fully packed conference for Mozilla which created a great impact in one form or the other. I now lead the &lt;a href=&quot;https://wiki.mozilla.org/India/task_force/engagement&quot;&gt;Events &amp; Campaings&lt;/a&gt; task force of &lt;a href=&quot;http://mozillaindia.org&quot;&gt;Mozilla India&lt;/a&gt;. Few of the events:
+
+&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://hollyhabstritt.com/blog/2014/6/29/mozcamp-beta-in-bangalore-india&quot;&gt;MozCamp Beta India &#39;14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://galaxyk.github.io/e/mozmeetin/&quot;&gt; Mozilla India Community Meetup &#39;14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://galaxyk.github.io/e/firefox-launch-party/&quot;&gt; Firefox Launch Party &#39;14&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.mozillaindia.org/24&quot;&gt; Maker Party | Hive Pop-up Bangalore &#39;13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.mozillaindia.org/144&quot;&gt; FirefoxOS App Days &#39;13&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are companies that do not let their employees spend time on external projects. I am quite happy to say that the company I work for, do not have that problem, on the contrary, they even motivate employees to contribute back to open source or any volunteer service they are interested in.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;It&#39;s rewarding&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;ol&gt;
+&lt;li&gt;You get to meet, collaborate and learn from a ton of smart people.&lt;/li&gt;
+&lt;li&gt;Drive a program you love with the help of others.&lt;/li&gt;
+&lt;li&gt;It is through &lt;a href=&quot;http://fsa.mozilla.org&quot;&gt;Firefox Student Ambassadors&lt;/a&gt; I started my contribution and now I am the &lt;a href=&quot;https://wiki.mozilla.org/StudentAmbassadors/ExecutiveBoard&quot;&gt;President of FSA Exec Board&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;You get to launch a product (&lt;a href=&quot;https://www.mozilla.org/en-US/firefox/os/&quot;&gt;FirefoxOS&lt;/a&gt;) in your country. Ain&#39;t that cool? &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;li&gt;You learn to be awake all night (and day).&lt;/li&gt;
+&lt;li&gt;I lied. I did give a couple of talks.&lt;/li&gt;
+&lt;li&gt;More &lt;a href=&quot;#reward&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;h4&gt;It&#39;s fun&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/assets/galaxy_icloud.JPG&quot; alt=&quot;Group&quot; height=&quot;500&quot; width=&quot;500&quot;&gt; &lt;/center&gt;
+&lt;center&gt;&lt;font size=&quot;2&quot;&gt;Portland Work Week&lt;/center&gt;&lt;/p&gt;&lt;/font&gt;
+
+&lt;p&gt;&lt;h4&gt;Now what?&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;You probably already know, but in case you don’t, then we have a volunteer-run &lt;a href=&quot;http://blog.mozillaindia.org/1149&quot;&gt;Mozilla Community Space in Bangalore&lt;/a&gt; supported by Mozilla for people passionate about the open web to meet, share, learn, hack and collaborate in person. It is how great outcomes happen and great products are made. Poke/tweet to the &lt;a href=&quot;http://twitter.com/galaxyk&quot;&gt;Space Wrangler&lt;/a&gt;, i.e., me, if you wan&#39;t to join us at the community space.&lt;/p&gt;
+
+&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Our first tweet from the &lt;a href=&quot;https://twitter.com/hashtag/MozSpaceBLR?src=hash&quot;&gt;#MozSpaceBLR&lt;/a&gt; 😊&lt;/p&gt;&amp;mdash; MozSpace Bangalore (@MozSpaceBLR) &lt;a href=&quot;https://twitter.com/MozSpaceBLR/status/531449756975775744&quot;&gt;November 9, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;i&gt;&quot;Contributing to open source is a great high; I can’t wait for the coming years!&quot;&lt;/p&gt;&lt;/i&gt;
+</content>
+  </entry>
+  
   
   
   <entry>
@@ -41,7 +111,7 @@
 
 &lt;p&gt;&lt;h4&gt;Beyond the code&lt;/h4&gt;&lt;/p&gt;
 
-&lt;p&gt;I am a terminal junkie and spend most of my time at work writing/forking code which I am not fond of. I like attending events, it is the place where you get to meet people with different backgrounds to talk, collaborate, learn and create. Also, I am shy and don&#39;t like giving talks or speaking at conferences. There are a lot more things that interests me - events, conferences, engaging with the users, community building, social media et. cetera. Over the course of years, I organized events from kitchen table meetups to a fully packed conference for Mozilla which created a great impact in one form or the other. I now lead the &lt;a href=&quot;https://wiki.mozilla.org/India/task_force/engagement&quot;&gt;Events &amp; Campaings&lt;/a&gt; task force of &lt;a href=&quot;http://mozilaindia.org&quot;&gt;Mozilla India&lt;/a&gt;. Few of the events:
+&lt;p&gt;I am a terminal junkie and spend most of my time at work writing/forking code which I am not fond of. I like attending events, it is the place where you get to meet people with different backgrounds to talk, collaborate, learn and create. Also, I am shy and don&#39;t like giving talks or speaking at conferences. There are a lot more things that interests me - events, conferences, engaging with the users, community building, social media et. cetera. Over the course of years, I organized events from kitchen table meetups to a fully packed conference for Mozilla which created a great impact in one form or the other. I now lead the &lt;a href=&quot;https://wiki.mozilla.org/India/task_force/engagement&quot;&gt;Events &amp; Campaings&lt;/a&gt; task force of &lt;a href=&quot;http://mozillaindia.org&quot;&gt;Mozilla India&lt;/a&gt;. Few of the events:
 
 &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://hollyhabstritt.com/blog/2014/6/29/mozcamp-beta-in-bangalore-india&quot;&gt;MozCamp Beta India &#39;14&lt;/a&gt;&lt;/li&gt;
@@ -141,66 +211,6 @@
 &lt;p&gt;&lt;strong&gt;Crowd source pictures &amp; posts:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/sh/suaku9txtbgbbm8/AAAQWMBZf1NhH8XNUDI-ObP-a&quot;&gt;Link to pictures&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  
-  
-  
-  <entry>
-    <id>http://galaxyk.github.io/e/firefox-launch-party</id>
-    <link type="text/html" rel="alternate" href="http://galaxyk.github.io/e/firefox-launch-party"/>
-    <title>Firefox Launch Party, India</title>
-    <updated>2014-05-13T00:00:00Z</updated>
-    <published>2014-05-13T00:00:00Z</published>
-    <author>
-      <name>Galaxy Kadiyala</name>
-      <uri>http://galaxyk.github.io/</uri>
-    </author>
-    <content type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/font-awesome/css/font-awesome.min.css&quot;&gt;
-
-&lt;center&gt;&lt;h1&gt;Firefox Launch Party, India&lt;/h1&gt;&lt;/center&gt;
-&lt;center&gt;&lt;h1&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-group&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;/center&gt;
-
-&lt;p&gt;It was craic! On the mezzanine level of News Café, Bangalore on May 10 attendees including geeks, Mozilla reps, students, entrepreneurs, press, Firefox fans joined together to celebrate the launch of new Firefox.&lt;/p&gt;
-
-&lt;center&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Xm5i5kbIXzc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
-
-&lt;p&gt;During the evening we get treated to a couple of presentations that show off what the latest version of Firefox is capable of with all the amazing updates and the neat user interface (UI) design also how and what of Mozilla Community in India. However, there is much more to Mozilla than Firefox.&lt;/p&gt;
-
-&lt;p&gt;First up is &lt;a href=&quot;http://twitter.com/kaustavdm&quot;&gt;Kaustav&lt;/a&gt;, a Mozilla Rep. He gave us a great presentation about the latest changes/updates in Firefox. &lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14166698711_13956b2c55_b.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
-
-&lt;p&gt;The second talk was by &lt;a href=&quot;http://twitter.com/vineelreddy&quot;&gt;Vineel&lt;/a&gt;, a Mozilla Rep, gave a brief about Mozilla, it&#39;s mission and the community. He added there are many ways to get invollved with Mozilla.&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190102063_9de59678db_z.jpg&quot; alt=&quot;Group&quot; height=&quot;300&quot; width=&quot;500&quot;&gt;&lt;/center&gt;
-
-&lt;p&gt;At the end of the talks we were all given postcards to fill and tweet &quot;I want a Web _____.&quot; Also, the participants were distributed &quot;Kumi&quot; paper toy to make and play with it &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/iwantaweb.jpg&quot; alt=&quot;Group&quot; height=&quot;500&quot; width=&quot;400&quot;&gt;
-&lt;figcaption&gt;I want a Web Open!&lt;/figcaption&gt;&lt;/center&gt;
-&lt;/figure&gt;
-
-&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Hours of hard work. Finally we have, Kumi! &lt;a href=&quot;https://twitter.com/search?q=%23firefoxindia&amp;amp;src=hash&quot;&gt;#firefoxindia&lt;/a&gt; &lt;a href=&quot;http://t.co/InX9Z7GQDy&quot;&gt;pic.twitter.com/InX9Z7GQDy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Siddardha Garimella (@gsiddardha) &lt;a href=&quot;https://twitter.com/gsiddardha/statuses/465421932100202496&quot;&gt;May 11, 2014&lt;/a&gt;&lt;/blockquote&gt;&lt;center&gt;
-
-&lt;p&gt;It was a different kind of crowd unlike our normal Mozilla community events. People were interested in knowing more about the community and the different ways to get involved. It was really a fun evening.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14190051543_6dbc0e5d89_z.jpg&quot; alt=&quot;Group&quot;&gt;
-&lt;figcaption&gt;Crazy Mozillians :D&lt;/figcaption&gt;&lt;/center&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Free beer, free tshirts, free food, free Firefox cuppy cakes in a good reminder to us all that open source software is something that we should both advocate and celebrate as a great opportunity.&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;/assets/fxlaunch/14146848086_2800d7af3b_b.jpg&quot; alt=&quot;Group&quot;&gt;&lt;/center&gt;
-
-&lt;p&gt;Oh, and if you haven&#39;t &lt;a href=&quot;http://www.mozilla.org/en-US/firefox/new/&quot;&gt;downloaded the latest Firefox&lt;/a&gt; yet, please do so! ;)&lt;/p&gt;
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I&#39;m still recovering from Firefox madness and so are the Mozillians &lt;a href=&quot;https://twitter.com/anknite&quot;&gt;Ankit&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GauthRaj&quot;&gt;Gauthamraj&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/pmjcreations&quot;&gt;Jafar&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/anushbmx&quot;&gt;Anush&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/vikasburri&quot;&gt;Vikas&lt;/a&gt; who helped us with the launch!! &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Pictures are fun. More here: &lt;a href=&quot;https://flic.kr/s/aHsjXs6zNG&quot;&gt;https://flic.kr/s/aHsjXs6zNG&lt;/a&gt;&lt;/p&gt; </content>
   </entry>
   
   
